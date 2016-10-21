@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476367814 source:c:\users\ronan\desktop\cours école informatique\langage c\bataille navale\map bataille navale\main.c
+	<stdio.h>
+	<stdlib.h>
+
